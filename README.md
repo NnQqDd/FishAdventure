@@ -1,1 +1,1 @@
-# FishAdventure
+# Fish Adventure - Survival mode
